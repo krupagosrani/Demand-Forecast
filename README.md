@@ -1,5 +1,5 @@
 # Demand-Forecast
-Predictive Analysis of Product Demand for Modern Supply Chain Management using machine learning
+Predictive Analysis of Product Demand for Modern Supply Chain Management using time series
 
 **Introduction:**
 
